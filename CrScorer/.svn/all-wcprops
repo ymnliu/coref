@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer
+END
+gold_ceaf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/gold_ceaf
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/.project
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/README
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/.classpath
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils
+END
+DpSentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/DpSentence.java
+END
+ThirdReflexives.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/ThirdReflexives.java
+END
+Quick.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/Quick.java
+END
+TreebankPhraseTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/TreebankPhraseTags.java
+END
+StdOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/StdOut.java
+END
+IntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/IntArray.java
+END
+StdRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/StdRandom.java
+END
+Abbreviations.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/Abbreviations.java
+END
+OverlapType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/OverlapType.java
+END
+CorefClusters.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/CorefClusters.java
+END
+FileFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/FileFunctions.java
+END
+ThirdPersonPron.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/ThirdPersonPron.java
+END
+OtherPronouns.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/OtherPronouns.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/Pair.java
+END
+Tree2Sentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/Tree2Sentence.java
+END
+SortedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/SortedIndex.java
+END
+CorefFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/CorefFunctions.java
+END
+TreebankPosTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/TreebankPosTags.java
+END
+CorefUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/CorefUser.java
+END
+CorefData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bmi/!svn/ver/13666/trunk/bmi.NLP/ACE02Navigator/src/utils/CorefData.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers
+END
+KAlphaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/KAlphaType.java
+END
+B3Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/B3Type.java
+END
+Span.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/Span.java
+END
+MatType.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/MatType.java
+END
+SpanAlignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/SpanAlignment.java
+END
+PairType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/PairType.java
+END
+ParentPtrTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/ParentPtrTree.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/Test.java
+END
+CEAFType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bmi/!svn/ver/13679/trunk/bmi.NLP/CrScorer/src/helpers/CEAFType.java
+END
