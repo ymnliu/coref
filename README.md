@@ -1,6 +1,6 @@
 # coref
 
-Working copy of Coreference resolver.
+Working copy of Coreference ident file evaluator.
 
 Please put these projects into your workspace with all previous dependencies, e.g. ModelFileFactory. 
 
