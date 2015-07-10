@@ -4,8 +4,11 @@ Working copy of Coreference ident file evaluator.
 
 Please put these projects into your workspace with all previous dependencies, e.g. ModelFileFactory. 
 
-To extract gold standard idt files from ACE 02 Corpus, run ACE02KeyExtractor.java 
-in edu.mayo.bsi.nlp.coref.CrScorer. Input parameter is the path of gold standard directory which contains xml files. It will create a output direcotry, e.g. for npapers it will create npaperIdent directory at the same level.
+To extract gold standard idt files from ACE 02 Corpus, run 
+        ACE02KeyExtractor.java 
+in 
+        edu.mayo.bsi.nlp.coref.CrScorer. 
+Input parameter is the path of gold standard directory which contains xml files. It will create a output direcotry, e.g. for npapers it will create npapersIdent directory at the same level.
 
 If you already have two directories of ident files to evaluate, you can simply use the following code:
 
