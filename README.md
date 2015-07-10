@@ -4,6 +4,8 @@ Working copy of Coreference ident file evaluator.
 
 Please put these projects into your workspace with all previous dependencies, e.g. ModelFileFactory. 
 
+To extract gold standard idt files from ACE 02 Corpus, run ACE02KeyExtractor.java 
+in edu.mayo.bsi.nlp.coref.CrScorer. Input parameter is the path of gold standard directory which contains xml files. It will create a output direcotry, e.g. for npapers it will create npaperIdent directory at the same level.
 
 If you already have two directories of ident files to evaluate, you can simply use the following code:
 
@@ -11,7 +13,7 @@ If you already have two directories of ident files to evaluate, you can simply u
     double[] score = krc.runEvalutationMUC();
     System.out.println(String.format("\t%.3f\t%.3f\t%.3f", score[0], score[1], score[2]));
 
-The implementation of KeyResponseComparer is in project CrScore.
+The implementation of KeyResponseComparer is in project CrScorer.
 
 Please make sure your output files and key files has the similar file name
 Please change the extension into yours in KeyReponseComparer.
