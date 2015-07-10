@@ -30,4 +30,4 @@ Please change the extension into yours in KeyReponseComparer.
 
 Once the comparer find a file in keyDirPath, e.g. 9802.125.norm.idt, it will look at 9802.125.sgm.tmx.rdc.xml.idt in the responseDirPath. Comparer them and return a array of double {precision, recall, f1}.
 
-Please double check the MatScore.MUC function before you actually use it. I only use the output of this function but the correctness of the result is not garanteed. 
+Please double check the MatScore.MUC function before you actually use it. I only use the output of this function but the correctness of the result is not guaranteed. 
